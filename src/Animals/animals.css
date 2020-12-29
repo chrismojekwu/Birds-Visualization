@@ -1,10 +1,9 @@
-
 body {
-    background-color: rgb(25, 38, 73);
+  background-color: rgb(25, 38, 73);
 }
 #graph-id-graph-wrapper {
-    border: solid #d83535 1px;
-    width: fit-content;
-    margin: auto;
-    background-color: rgb(239, 240, 232);
+  border: solid #d83535 1px;
+  width: fit-content;
+  margin: auto;
+  background-color: rgb(239, 240, 232);
 }
