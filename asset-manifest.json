@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Birds-Visualization/static/css/main.79b3f7d6.chunk.css",
+    "main.js": "/Birds-Visualization/static/js/main.d336a739.chunk.js",
+    "main.js.map": "/Birds-Visualization/static/js/main.d336a739.chunk.js.map",
+    "runtime-main.js": "/Birds-Visualization/static/js/runtime-main.c925f10c.js",
+    "runtime-main.js.map": "/Birds-Visualization/static/js/runtime-main.c925f10c.js.map",
+    "static/js/2.e292efe9.chunk.js": "/Birds-Visualization/static/js/2.e292efe9.chunk.js",
+    "static/js/2.e292efe9.chunk.js.map": "/Birds-Visualization/static/js/2.e292efe9.chunk.js.map",
+    "static/js/3.c5f96e10.chunk.js": "/Birds-Visualization/static/js/3.c5f96e10.chunk.js",
+    "static/js/3.c5f96e10.chunk.js.map": "/Birds-Visualization/static/js/3.c5f96e10.chunk.js.map",
+    "index.html": "/Birds-Visualization/index.html",
+    "static/css/main.79b3f7d6.chunk.css.map": "/Birds-Visualization/static/css/main.79b3f7d6.chunk.css.map",
+    "static/js/2.e292efe9.chunk.js.LICENSE.txt": "/Birds-Visualization/static/js/2.e292efe9.chunk.js.LICENSE.txt",
+    "static/media/001-parrots.8a5b54be.svg": "/Birds-Visualization/static/media/001-parrots.8a5b54be.svg",
+    "static/media/002-vulture.5d06b595.svg": "/Birds-Visualization/static/media/002-vulture.5d06b595.svg",
+    "static/media/005-heron.9143c6e6.svg": "/Birds-Visualization/static/media/005-heron.9143c6e6.svg",
+    "static/media/006-toucan.fcbaa5fa.svg": "/Birds-Visualization/static/media/006-toucan.fcbaa5fa.svg",
+    "static/media/007-albatross.6d9d4e88.svg": "/Birds-Visualization/static/media/007-albatross.6d9d4e88.svg",
+    "static/media/009-swift.5ec3c283.svg": "/Birds-Visualization/static/media/009-swift.5ec3c283.svg",
+    "static/media/012-pigeon.40e719e0.svg": "/Birds-Visualization/static/media/012-pigeon.40e719e0.svg",
+    "static/media/014-hawk.0e2e734f.svg": "/Birds-Visualization/static/media/014-hawk.0e2e734f.svg",
+    "static/media/018-goose.ad330cc4.svg": "/Birds-Visualization/static/media/018-goose.ad330cc4.svg",
+    "static/media/019-flamingo.d5ed9ee4.svg": "/Birds-Visualization/static/media/019-flamingo.d5ed9ee4.svg",
+    "static/media/021-pelican.9e5b1352.svg": "/Birds-Visualization/static/media/021-pelican.9e5b1352.svg",
+    "static/media/031-swan.9052ec61.svg": "/Birds-Visualization/static/media/031-swan.9052ec61.svg",
+    "static/media/034-hummingbird.34beec84.svg": "/Birds-Visualization/static/media/034-hummingbird.34beec84.svg",
+    "static/media/037-penguin.e6d2c678.svg": "/Birds-Visualization/static/media/037-penguin.e6d2c678.svg",
+    "static/media/038-passerines.516ba42b.svg": "/Birds-Visualization/static/media/038-passerines.516ba42b.svg",
+    "static/media/city.434f9c09.svg": "/Birds-Visualization/static/media/city.434f9c09.svg",
+    "static/media/water.fa6e8564.svg": "/Birds-Visualization/static/media/water.fa6e8564.svg",
+    "static/media/wood.527ca18c.svg": "/Birds-Visualization/static/media/wood.527ca18c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c925f10c.js",
+    "static/js/2.e292efe9.chunk.js",
+    "static/css/main.79b3f7d6.chunk.css",
+    "static/js/main.d336a739.chunk.js"
+  ]
+}
